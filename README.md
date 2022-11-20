@@ -1,5 +1,10 @@
 # Dokumentasi web services dan RESTful API yang dibuat
 
+## Kelompok BE 6
+* Arif Setiawan
+* Vanya Mazura
+* Zuhri Agusdino
+
 ## Built with
 
 - express js
